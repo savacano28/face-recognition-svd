@@ -1,0 +1,10 @@
+
+En una terminal, ubicado en la carpeta codigo_proyecto
+
+SOLO FUNCIONA CON imagenes ASCII
+
+java -cp .:Jama-1.0.3.jar -Xms1024M -Xmx1024M ReconocedorGUI
+
+Seleccionar con el boton Base de Datos, la carpeta que contiene las carpetas s1_ascii, s2_ascii, etc.
+Se demora medio minuto en cargar la base,
+luego puede seleccionar una imagen para buscarla en la base con el boton cargarImagen.
